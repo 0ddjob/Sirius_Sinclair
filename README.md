@@ -10,7 +10,7 @@ https://sblive.narod.ru/ZX-Spectrum/Sirius/Sirius.htm
 Thanks to Eugene on UCHC for his insight:
 "Actually, this is one of numerous cheap clones that built around latest Soviet ULA replacement. This one, in particular, created by small garage company with a quite shitty soldering and assembling.  And board itself seems to be assembled somewhere using automated production line, so seems they have ordered boards somewhere else and then assemble them in case. This can explain why boards in these instances are different."
 
-It was initially AC powered with a very simple and unsafe looking transformer (assuming 220VAC-to-9VAC), a КЦ410Б ridge rectifier and a КРЕН5А 5V linear regulator.  I will replace these with a simple 2.1mm DC socket for direct 5VDC input (i.e. USB charger).  On booting it was drawing about 330mA at 5V.
+It was initially AC powered with a very simple and unsafe looking transformer (assuming 220VAC-to-9VAC), a КЦ410Б bridge rectifier and a КРЕН5А 5V linear regulator.  I will replace these with a simple 2.1mm DC socket for direct 5VDC input (i.e. USB charger).  On booting it was drawing about 330mA at 5V.
 
 It utilises a Soviet equivalent to a Gate Array or ULA called a БМК (Базового Матричного Кристалла, or Basic Matrix Crystal) ... the КА1515ХМ1-216.  I have had very little success with machines that use this chip actually working ... however it does greatly simplify the circuit design!
 
