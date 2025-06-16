@@ -5695,6 +5695,30 @@
 			(justify left bottom)
 		)
 	)
+	(gr_text "June 2025"
+		(at 219.2698 51.1473 0)
+		(layer "F.SilkS")
+		(uuid "f40caa0f-8193-4f49-b919-6ae5948ccab0")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.1)
+			)
+			(justify left bottom)
+		)
+	)
+	(gr_text "Interface board for СИРИУС\nBrett Hallen, June 2025\nwww.youtube.com/@Brfff"
+		(at 266.1398 75.4273 0)
+		(layer "B.SilkS")
+		(uuid "ae875bd5-cea5-4dd4-b4d7-d34080f496de")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.1)
+			)
+			(justify left bottom mirror)
+		)
+	)
 	(segment
 		(start 223.64 103.355)
 		(end 225.885 105.6)
