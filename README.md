@@ -36,7 +36,7 @@ I'm working on creating a cleaner version of the schematic.  I originally wanted
 Such a beautiful little board deserves to be seen and not hidden away in some ho-hum case.  I'm planning to mount my Sirius board on a Perspex place with a membrane keyboard.  Thus I need a separate board with all the interfaces on it, hence this design.
 
 ### Status
-15-Jun-2025: Almost completed, finalising design<br>
+16-Jun-2025: Submitted to PCBWAY for test fabrication<br>
 
 
 ## [Images](/Images)
